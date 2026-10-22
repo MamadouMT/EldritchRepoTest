@@ -1,0 +1,1 @@
+Knowing what type of game was what went well. What didn't go well was implementing what I wanted to the game itself. File organization was a hassle but besides things went smoothly  If I had more time I would make the ghost spatial audio less annoying. 
